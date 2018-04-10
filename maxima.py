@@ -20,6 +20,7 @@ def find_maxima(x):
         idx -- list of indices of the local maxima in x
     """
 
+    # add a comment
     idx = []
     up = False
     down = False
